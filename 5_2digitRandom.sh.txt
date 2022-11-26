@@ -15,3 +15,4 @@ done
 avg=$(echo $sum / $N | bc -l)
 
 echo $avg
+#modified in first branch
